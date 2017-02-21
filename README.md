@@ -1,2 +1,3 @@
 # hello-world
-another repository
+Just another repository
+Mars invades Earth tomorrow. The exchange to close early.
